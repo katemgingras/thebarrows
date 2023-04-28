@@ -8,6 +8,14 @@ body {
 p {
 }
 
+a {
+  font-color: blue;
+}
+
+small {
+  font-style: italic;
+}
+  
 h1 {
   size: 18px;
 }
