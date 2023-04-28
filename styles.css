@@ -19,3 +19,8 @@ ul {
 li {
   display:inline;
 }
+
+img {
+  display:block;
+  max-width:300px;
+}
