@@ -12,6 +12,10 @@ h1 {
   size: 18px;
 }
 
+ul {
+  margin-left: -50px;
+}
+
 li {
   display:inline;
 }
