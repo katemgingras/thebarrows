@@ -9,3 +9,7 @@ p {
 h1 {
   size: 18px;
 }
+
+li {
+  display:inline;
+}
